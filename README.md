@@ -24,9 +24,6 @@ Step 6.Generate Confusion Matrix
 Step 7.Stop
 ## Program:
 
-### Developed by: KIRUTIKA K R
-### RegisterNumber:  212224230128
-
 ```
 import pandas as pd
 from sklearn.datasets import load_iris
